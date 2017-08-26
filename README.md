@@ -1,7 +1,7 @@
 # TestMii #
 Wii-U Gamepad Button Tester
 ## About ##
-Homebrew that tests your Wii U gamepads button inputs
+Homebrew that tests your Wii-U gamepads button inputs
 
 An extremely basic program which will ask you to press buttons in order. If it detects the press you can proceed.
 
